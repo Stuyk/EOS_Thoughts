@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "memory": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "xstring": "cpp",
+        "initializer_list": "cpp",
+        "streambuf": "cpp",
+        "xmemory0": "cpp",
+        "xutility": "cpp",
+        "algorithm": "cpp"
+    }
+}
