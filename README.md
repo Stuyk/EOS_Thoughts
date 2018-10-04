@@ -45,7 +45,7 @@ Properties:
 cleos push action accountName remove '["userAccount", 1, "Removed a message."]' -p userAccount
 ```
 
-### Add a Follower to an Account
+#### Add a Follower to an Account
 Action:
 * addfollower
 
@@ -57,7 +57,7 @@ Properties:
 cleos push action accountName addfollower '["userAccount", "otherAccount", "userAccount is now Following otherAccount"]' -p userAccount
 ```
 
-### Remove a Follower to an Account
+#### Remove a Follower to an Account
 Action:
 * delfollower
 
